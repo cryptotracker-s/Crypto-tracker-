@@ -1,4 +1,4 @@
-# Crypto-tracker-
+# CRYPTEX (Crypto-tracker-)
 Real-time cryptocurrency tracker with live prices, charts, and portfolio management.
 
 ✅ Main Features of CRYPTEX
